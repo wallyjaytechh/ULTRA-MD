@@ -23,9 +23,9 @@ global.botname = process.env.BOTNAME || 'ULTRA-MD';
 global.pairingNumber = process.env.BOT_NUMBER || 'your number';  // put your number here
 global.SESSION_ID = process.env.SESSION_ID || 'session id';  // put your session id here
 
-global.mods = []
-global.prems = []
-global.allowed = ['923444844060', '923051391007']
+global.mods = [238144317152]
+global.prems = [238144317152]
+global.allowed = ['238144317152', '2348155763709', '2348054984935]
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -73,14 +73,14 @@ global.APIKeys = {
 
 // Sticker WM
 global.premium = 'true'
-global.packname = 'GLOBAL-MD'
-global.author = 'GlobalTechInfo'
+global.packname = 'WALLYJAYTECH-MD'
+global.author = 'wallyjaytech'
 global.menuvid = 'https://i.imgur.com/2U2K9YA.mp4'
-global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/global.techinfo'
-global.dygp = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
-global.fgsc = 'https://github.com/GlobalTechInfo/ULTRA-MD'
-global.fgyt = 'https://youtube.com/@GlobalTechInfo'
-global.fgpyp = 'https://youtube.com/@GlobalTechInfo'
+global.igfg = ' Follow on Instagram'
+global.dygp = 'https://wa.me/238144317152'
+global.fgsc = 'https://github.com/wallyjaytechh/WALLYJAYTECH-MD'
+global.fgyt = 'https://youtube.com/@wallyjaytechy'
+global.fgpyp = 'https://youtube.com/wallyjaytechy'
 global.fglog = 'https://i.ibb.co/G2dh9cB/qasim.jpg'
 global.thumb = fs.readFileSync('./assets/qasim.jpg')
 
